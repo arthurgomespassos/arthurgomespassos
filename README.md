@@ -1,6 +1,6 @@
 - 👋 Ola! Eu sou Arthur Gomes Passos, iniciante em desenvolvimento web
 - 👀 Estou estudando sem parar em busca de escrever codigos melhores
-- 🌱 Estou no momento focado em Node.js e suas APIS e Frameworks
+- 🌱 Estou no momento focado em Python e Django
 - 📫 Contato: arthurgomespassos74@gmail.com
 
 <!---
